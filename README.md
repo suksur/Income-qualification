@@ -1,9 +1,9 @@
 
-# Income-Qualification-Project
+
 
 # Income Qualification Project using Machine Learning in Python
 
-**Introduction:** I have worked on this project titled “Income Qualification” to fulfil mandatory criteria towards Machine Learning  module of my PGP in Data Science course from Simplilearn.
+
 
 **Objective:** To identify the level of income qualification needed for the families for social welfare program in Latin America.
 
